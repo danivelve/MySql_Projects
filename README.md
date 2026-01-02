@@ -12,6 +12,8 @@ This repository contains structured SQL projects focused on database design, que
 ✔ Relational data modeling
 ✔ SQL queries for reporting and insights
 
+--
+
 ### 🛠 Tools & Skills
 - MySQL
 - SQL (Joins, Subqueries, CTEs, Window Functions)
