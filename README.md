@@ -1,4 +1,4 @@
-# 📊 SQL (MySQL) Data Analysis Portfolio
+### 📊 SQL (MySQL) Data Analysis Portfolio
 
 Welcome to my **SQL (MySQL) Data Analysis Portfolio**.  
 This repository contains a collection of hands-on SQL projects focused on **data cleaning, exploratory data analysis (EDA), aggregation, and analytical reporting** using real-world datasets.
@@ -7,7 +7,7 @@ Each project demonstrates practical SQL techniques commonly used by **Data Analy
 
 ---
 
-## 🎯 Purpose of This Repository
+### 🎯 Purpose of This Repository
 The goal of this portfolio is to:
 - Showcase strong **SQL querying and analytical thinking**
 - Demonstrate **real-world exploratory data analysis workflows**
@@ -16,7 +16,7 @@ The goal of this portfolio is to:
 
 ---
 
-## 🗂️ Repository Structure
+### 🗂️ Repository Structure
 
 ```text
 MySql_Projects/
@@ -34,7 +34,10 @@ MySql_Projects/
 │   └── Exploratory data analysis of global layoffs trends
 │
 └── README.md
-## 📁 Projects Overview
+
+```
+
+### 📁 Projects Overview
 
 ### 📌 Project 1: Travel Planner Database
 **Focus:** Database structure and query logic  
@@ -70,7 +73,7 @@ MySql_Projects/
 
 ---
 
-## 🛠️ Tools & Technologies
+### 🛠️ Tools & Technologies
 - **SQL (MySQL)**
 - Aggregations & Grouping
 - Window Functions
@@ -79,16 +82,9 @@ MySql_Projects/
 
 ---
 
-## ⭐ What Makes This Portfolio Unique
+### ⭐ What Makes This Portfolio Unique
 - Focuses on **analysis**, not just query execution  
 - Uses **real-world datasets** and realistic business questions  
 - Demonstrates **advanced SQL features** beyond basic `SELECT` statements  
 - Emphasizes **clear documentation and readability**, similar to production analytics work  
 
----
-
-## 🚀 Future Enhancements
-- Add **Power BI / Tableau dashboards** for selected projects  
-- Introduce **performance optimizations and indexing strategies**  
-- Expand analysis using **Python for statistical modeling**  
-- Add **per-project visual summaries**  
