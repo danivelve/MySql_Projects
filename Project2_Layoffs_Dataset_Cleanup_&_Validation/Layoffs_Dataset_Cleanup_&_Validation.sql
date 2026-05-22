@@ -45,14 +45,12 @@ ROW_NUMBER() OVER(
 PARTITION BY company, industry, total_laid_off, percentage_laid_off, `date`) AS row_num
 FROM layoffs_staging;
 
-
-
-You said:
+what this code does?
 SELECT * 
 FROM layoffs_staging;
 whats does this sql do
-ChatGPT said:
-This SQL statement simply retrieves and displays data from a table. Let’s break it down clearly 👇
+
+This SQL statement simply retrieves and displays data from a table. Let’s break it down clearly 
 
 SELECT * 
 FROM layoffs_staging;
